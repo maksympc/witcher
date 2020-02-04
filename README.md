@@ -1,2 +1,2 @@
-# witcher
-The Witcher. Welcome friends!
+# The Witcher
+Official landing page :)
