@@ -1,0 +1,23 @@
+{
+  "name": "witcher",
+  "version": "1.0.0",
+  "description": "Witcher repository. Adaptive landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksympc/witcher.git"
+  },
+  "keywords": [
+    "witcher",
+    "SPA"
+  ],
+  "author": "Maksym Pinchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksympc/witcher/issues"
+  },
+  "homepage": "https://github.com/maksympc/witcher#readme"
+}

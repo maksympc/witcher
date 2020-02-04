@@ -1,2 +1,2 @@
 # witcher
-Witcher repository. Adaptive landing page
+The Witcher. Welcome friends!
