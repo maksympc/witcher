@@ -1,7 +1,7 @@
 {
-  "name": "witcher",
+  "name": "The Witcher",
   "version": "1.0.0",
-  "description": "Witcher repository. Adaptive landing page",
+  "description": "The Witcher repo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/maksympc/witcher.git"
   },
   "keywords": [
-    "witcher",
+    "The Witcher",
     "SPA"
   ],
   "author": "Maksym Pinchuk",
@@ -19,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/maksympc/witcher/issues"
   },
-  "homepage": "https://github.com/maksympc/witcher#readme"
+  "homepage": "https://maksympc.github.io/witcher/"
 }
