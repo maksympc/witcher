@@ -1,4 +1,5 @@
 # The Witcher
-Official landing page :)
+Fun landing page.
+
 ### DEMO
 https://maksympc.github.io/witcher/
